@@ -103,6 +103,11 @@ When the build process is completed you can start your instance again using:
 
 ```docker-compose up -d```
 
+# Note
+User: ec2-user
+Password:
+Url: http://54.164.126.223:8080/
+
 # License
 
 The content in this repository is Open Source material released under the Apache 2.0 License. Please see the [LICENSE](LICENSE) file for full license details.
