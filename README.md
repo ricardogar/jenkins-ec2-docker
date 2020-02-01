@@ -47,7 +47,7 @@ The easiest way copy the project files to the EC2 instance is to use Git to clon
 
 Once Git is installed you can clone this project using the following command from the ec2-user home directory (```/home/ec2-user```):
 
-```sudo git clone https://github.com/CraigsTraining/jenkins-ec2-docker```
+```sudo git clone https://github.com/ricardogar/jenkins-ec2-docker```
 
 This will clone the project files into:
 
