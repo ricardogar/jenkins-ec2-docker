@@ -1,6 +1,6 @@
 # Jenkins on Ubuntu in a Docker Container
 
-This repository demonstrates relatively simple steps to install the latest version of Jenkins (the leading open source automation server: https://jenkins.io/) on an Amazon Linux EC2 instance.
+This repository demonstrates relatively simple steps to install the latest version of Jenkins (the leading open source automation server: https://jenkins.io/) on an UbuntU Linux EC2 instance.
 
 # Installation
 
@@ -118,7 +118,7 @@ The code in this repository is not sponsored or supported by Cloudbees, Inc.
 
 # Authors and Contributors 
 
-* Author: [Craig Vitter](https://github.com/cvitter)
+* Author: [RICARDO GARCIA](https://github.com/ricardogar)
  
 # Questions, Feedback, Pull Requests Etc.
 
